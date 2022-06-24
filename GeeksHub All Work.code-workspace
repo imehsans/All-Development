@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "..\\GeeksHub All Work"
+		},
+		{
+			"path": "..\\MERN Personal"
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5501,
+		"liveServer.settings.multiRootWorkspaceName": "MERN Personal"
+	}
+}
