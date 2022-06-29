@@ -1,0 +1,16 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;500&family=Work+Sans:wght@300;400;500;700;800&display=swap");
+
+* {
+  padding: 0;
+  margin: 0;
+  font-family: "Work Sans", sans-serif;
+}
+
+.text-xxs {
+  font-size: 11px !important;
+  line-height: 16px;
+}
+
+.hero-secion {
+  background-image: url("../images/banner6.png");
+}
